@@ -29,7 +29,7 @@ The core idea behind this project is to analyze **how sales vary by car model an
 ## 🖼 Screenshots
 
 ### Model 1 Dashboard
-![Model 1 Dashboard](sales_dashboard/screenshots/ss1.png)
+![Model 1 Dashboard](car_sales_powerbi_project/sales_dashboard/screenshots/ss1.png)
 
 *Shows overall sales, pre-bookings, and growth trends for Model 1 across 2019–2022.*
 
