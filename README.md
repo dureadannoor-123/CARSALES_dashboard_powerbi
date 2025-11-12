@@ -26,6 +26,22 @@ The core idea behind this project was to analyze **how sales vary by car model a
 
 ---
 
+## 🖼 Screenshots
+
+### Model 1 Dashboard
+![Model 1 Dashboard](screenshots%20of%20dashboard/ss1.png)
+
+### Model 2 Dashboard
+![Model 2 Dashboard](screenshots%20of%20dashboard/ss2.png)
+
+### Model 3 Dashboard
+![Model 3 Dashboard](screenshots%20of%20dashboard/ss3.png)
+
+### Additional Insights / Summary View
+![Additional Insights](screenshots%20of%20dashboard/ss4.png)
+
+---
+
 ## 🧠 Insights
 - Each dashboard highlights how a specific car model performed throughout the year.  
 - Easy comparison of **growth rate and profitability** across models.  
@@ -43,4 +59,3 @@ The core idea behind this project was to analyze **how sales vary by car model a
 ---
 
 ## 📂 File Structure
-
