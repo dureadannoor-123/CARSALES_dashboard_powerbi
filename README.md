@@ -2,9 +2,9 @@
 
 ## 📖 Overview
 This Power BI project visualizes **car sales performance across multiple years (2019–2022)** for three different car models.  
-Each model is represented as a separate dashboard view, allowing users to explore yearly performance differences and understand key business metrics like **sales, pre-bookings, growth**, and **profit trends**.
+Each model has a dedicated dashboard view, allowing users to explore yearly performance differences and understand key business metrics like **sales, pre-bookings, growth**, and **profit trends**.
 
-The core idea behind this project was to analyze **how sales vary by car model and year**, providing clear insights into which models performed better and during which months or years.
+The core idea behind this project is to analyze **how sales vary by car model and year**, providing clear insights into which models performed better and during which months or years.
 
 ---
 
@@ -29,16 +29,24 @@ The core idea behind this project was to analyze **how sales vary by car model a
 ## 🖼 Screenshots
 
 ### Model 1 Dashboard
-![Model 1 Dashboard](screenshots%20of%20dashboard/ss1.png)
+![Model 1 Dashboard](sales_dashboard/screenshots/ss1.png)
+
+*Shows overall sales, pre-bookings, and growth trends for Model 1 across 2019–2022.*
 
 ### Model 2 Dashboard
-![Model 2 Dashboard](screenshots%20of%20dashboard/ss2.png)
+![Model 2 Dashboard](sales_dashboard/screenshots/ss2.png)
+
+*Highlights monthly sales patterns and profitability KPIs for Model 2.*
 
 ### Model 3 Dashboard
-![Model 3 Dashboard](screenshots%20of%20dashboard/ss3.png)
+![Model 3 Dashboard](sales_dashboard/screenshots/ss3.png)
+
+*Displays category-wise sales and pre-booking statistics for Model 3.*
 
 ### Additional Insights / Summary View
-![Additional Insights](screenshots%20of%20dashboard/ss4.png)
+![Additional Insights](sales_dashboard/screenshots/ss4.png)
+
+*Provides a consolidated view of trends and comparative performance across all models.*
 
 ---
 
@@ -51,9 +59,9 @@ The core idea behind this project was to analyze **how sales vary by car model a
 ---
 
 ## 🧰 Tools & Technologies
-- **Microsoft Power BI Desktop**
-- **Data Cleaning & Modeling** in Power Query
-- **DAX Measures** for KPIs (Growth %, Total Profit)
+- **Microsoft Power BI Desktop**  
+- **Data Cleaning & Modeling** in Power Query  
+- **DAX Measures** for KPIs (Growth %, Total Profit)  
 - **Visualization Techniques** using shapes, buttons, and bookmarks for page navigation
 
 ---
