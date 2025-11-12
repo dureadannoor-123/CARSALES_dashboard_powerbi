@@ -29,22 +29,22 @@ The core idea behind this project is to analyze **how sales vary by car model an
 ## 🖼 Screenshots
 
 ### Model 1 Dashboard
-![Model 1 Dashboard](car_sales_powerbi_project/sales_dashboard/screenshots/ss1.png)
+![Model 1 Dashboard](sales_dashboard/screenshots/ss1.jpg)
 
 *Shows overall sales, pre-bookings, and growth trends for Model 1 across 2019–2022.*
 
 ### Model 2 Dashboard
-![Model 2 Dashboard](sales_dashboard/screenshots/ss2.png)
+![Model 2 Dashboard](sales_dashboard/screenshots/ss2.jpg)
 
 *Highlights monthly sales patterns and profitability KPIs for Model 2.*
 
 ### Model 3 Dashboard
-![Model 3 Dashboard](sales_dashboard/screenshots/ss3.png)
+![Model 3 Dashboard](sales_dashboard/screenshots/ss3.jpg)
 
 *Displays category-wise sales and pre-booking statistics for Model 3.*
 
 ### Additional Insights / Summary View
-![Additional Insights](sales_dashboard/screenshots/ss4.png)
+![Additional Insights](sales_dashboard/screenshots/ss4.jpg)
 
 *Provides a consolidated view of trends and comparative performance across all models.*
 
